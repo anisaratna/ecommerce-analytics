@@ -24,7 +24,7 @@ I conducted a T-Test to compare two marketing strategies:
 * **Result:** The 10% Discount group showed a significantly higher AOV ($128.77) vs Free Shipping ($119.07) with a **P-value of 7.53e-20**, proving the result is statistically significant.
 
 ### 3. Executive Dashboard
-https://drive.google.com/file/d/1mj8Hvel9fadQRHZyY4hnetnSpAQwgkgI/view?usp=drive_link
+<img width="967" height="699" alt="Screenshot 2026-04-16 202910" src="https://github.com/user-attachments/assets/acfc412e-ad78-4027-9952-fea96f43b597" />
 
 ## Recommendations
 * **Logistics Audit:** Categories like `bed_bath_table` show high revenue but low ratings (3.9). Investigation into delivery damage or shipping costs for heavy items is recommended.
