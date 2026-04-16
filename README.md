@@ -29,3 +29,6 @@ I conducted a T-Test to compare two marketing strategies:
 ## Recommendations
 * **Logistics Audit:** Categories like `bed_bath_table` show high revenue but low ratings (3.9). Investigation into delivery damage or shipping costs for heavy items is recommended.
 * **Marketing Focus:** Prioritize price discounts over shipping waivers, as customers show higher sensitivity to product pricing.
+
+## Link Dataset
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
